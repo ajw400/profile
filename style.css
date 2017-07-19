@@ -1,0 +1,72 @@
+/* Here goes your CSS */
+.container {
+  width: 600px;   /* Set width */;
+  background: #FF8D68;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20 0 0 0;
+  box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.1); /* Automatically set left/right margins */
+}
+
+img {
+  height: 60%;
+}
+body {
+    background: #FFECBA;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    color: #001F52;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+h1 {
+  color: #A10054;
+  font-size: 50px;
+}
+
+.btn-blue {
+    background-color: #001F52;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
+h2 {
+  color: #FF8D68;
+  font-size: 22px;
+}
+
+a {
+  color: #A10054;
+  text-decoration: none;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+#profile_img {
+  height: 40%;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 30px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.card {
+  padding: 50;
+  background: white;
+  text-align: center;
+  width: 700px;
+  margin: 0 auto;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
